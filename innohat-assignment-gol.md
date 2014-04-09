@@ -32,7 +32,7 @@ You should **continue to use Hoplon** or **use other Clojure tools** to create a
 
 1. You should be able to pause a GOL world and edit the cell states.
 2. When editing the cell states, you should be able to change the size of the world.
-3. You should be able to fork (i.e. copy and create new) cells.
+3. You should be able to fork (i.e. copy and create new) world.
 4. Editing a world should create a new commit (i.e. old world before editing should still be able to be accessed).
 
 ## Logistics
