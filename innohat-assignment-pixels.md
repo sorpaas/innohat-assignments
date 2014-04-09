@@ -1,4 +1,4 @@
-# Innohat Interview Assignments: All RGB in One Image
+# Innohat Interview Assignment: All RGB in One Image
 *10th April, 2014*
 
 ## Introduction
