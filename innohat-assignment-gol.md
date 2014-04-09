@@ -30,10 +30,11 @@ You should **use [Hoplon](http://hoplon.io/)** to implement this part. Check out
 ### Gist for the Game of Life
 You should **continue to use Hoplon** or **use other Clojure tools** to create a simple web application. We should expect functions as follows:
 
-1. You should be able to pause a GOL world and edit the cell states.
-2. When editing the cell states, you should be able to change the size of the world.
-3. You should be able to fork (i.e. copy and create new) world.
-4. Editing a world should create a new commit (i.e. old world before editing should still be able to be accessed).
+1. The data of the GOL world should be stored in a database.
+2. You should be able to pause a GOL world and edit the cell states.
+3. When editing the cell states, you should be able to change the size of the world.
+4. You should be able to fork (i.e. copy and create new) world.
+5. Editing a world should create a new commit (i.e. old world before editing should still be able to be accessed).
 
 ## Logistics
 1. The assignment will last for 4 hours, testing your learning ability of programming.
