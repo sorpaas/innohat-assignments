@@ -38,9 +38,11 @@ Build a simple web application **in Haskell** with 2 functions:
 2. Show the result for people's voting.
 
 ## Logistics
-1. The assignment will last for 4 hours, testing your learning ability of programming.
-2. Please use source version control tools (such as **git**) during the whole process.
-4. You can use Internet and any other things during the whole process, but please don't copy others' work.
-3. You can approach the interviewers for help if you meet any problem during the assignment.
+1. The assignment will last for 4 hours, testing your learning ability of programming. You are welcome to leave early if you feel confident about the assignment.
+2. Please use source version control tools (such as **git**) during the whole process and make regular commit for us to track your process.
+3. You can use Internet and any other things during the whole process, but please don't copy others' work.
+4. You can approach the interviewers for help if you meet any problem during the assignment.
+5. We will do regular check in during the whole interview process.
+6. All assignment code should be open sourced after the interview under [MIT License](http://opensource.org/licenses/MIT) for review.
 
 *Innohat, Inc.*
